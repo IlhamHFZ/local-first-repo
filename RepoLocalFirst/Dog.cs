@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 namespace RepoLocalFirst;
 
 public class Dog
@@ -10,7 +11,6 @@ public class Dog
 		Name = name;
 		Age = age;
 	}
-	
 	public string SoundDog()
 	{
 		return $"nama ku {Name}";
